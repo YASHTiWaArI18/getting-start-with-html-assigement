@@ -1,0 +1,33 @@
+HTML Comments are used to insert comments in the HTML code.
+It is a good practice of coding so that the coder and the reader can get help to understand the code. 
+It is a simple piece of code that is wiped off (ignored) by web browsers i.e., not displayed by the browser.
+In this example, I have added a comment for each line:
+
+-------------------------------------------------------------------------------------------------------------------
+<!-- This is the start of an HTML document -->
+<!DOCTYPE html> <!-- Declare the type of HTML file -->
+ <!-- Specifies the language of the content - English -->
+<html lang="en"> 
+<!-- The head section contains meta-information about the page -->
+<head> 
+<meta charset="UTF-8" /> <!-- Set encoding to UTF-8 -->
+<!-- Set the title of the page -->
+<title>My First Web Page</title> 
+</head>
+<!-- The body section contains the visible part of the webpage -->
+<body>
+<!-- Add some text to the webpage -->
+<p>Hello World!</p>
+</body>
+</html>
+This program will display "Hello World!" on your screen.
+-----------------------------------------------------------------------------------------------------------------------
+There are three types of comments in HTML which are:
+1. Single Line Comments: Used when you want to add information or explanation regarding one statement.
+2. Multi-Line Comments: Useful when you need to explain multiple statements at once.
+3.comment tag:There used to be an HTML <comment> tag, but currently it is not supported by any modern browser.
+
+
+
+
+

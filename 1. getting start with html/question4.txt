@@ -1,0 +1,19 @@
+Tags are the building blocks of HTML and are used to mark up elements on a webpage.
+They consist of opening and closing tags, which enclose the content they are applied to. 
+The opening tag contains the name of the element, while the closing tag has a forward slash before the element name.
+ For example:
+ <p>This is a paragraph.</p>
+ Here, <p> is the opening tag, and </p> is the closing tag. The content between these tags forms the paragraph element.
+ ----------------------------------------------------------------------------------------------------------------------
+ Elements:
+ An element is the combination of a tag and its content.
+ ex:
+ <p>This is a paragraph.</p>
+ In the example above, <p> is the tag, and "This is a paragraph." is the content. Together, they form the <p> element.
+ HTML elements can be nested within each other to create a hierarchical structure. 
+ For instance:
+<div>
+  <h1>This is a heading</h1>
+  <p>This is a paragraph.</p>
+</div>
+In this example, <div> is a container element that encapsulates both the heading (<h1>) and paragraph (<p>) element
